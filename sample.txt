@@ -1,2 +1,3 @@
 This is a sample file for git usage
 this is after furst commit
+this is from dev1
